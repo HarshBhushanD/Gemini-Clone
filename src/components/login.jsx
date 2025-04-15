@@ -232,7 +232,7 @@ import React, { useState } from 'react';
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from '../firebase.jsx';
 import { Link, useNavigate } from 'react-router-dom';
-import './Login.css';
+import './login.css';
 // Remove or comment out the assets import if it doesn't exist
 // import { assets } from "../../assets/assets.js";
 

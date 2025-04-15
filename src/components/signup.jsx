@@ -392,7 +392,7 @@ import React, { useState, useEffect } from 'react';
 import { createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
 import { auth } from '../firebase.jsx';
 import { Link, useNavigate } from 'react-router-dom';
-import './Signup.css';
+import './signup.css';
 // Remove or comment out the assets import if it doesn't exist
 // import { assets } from "../../assets/assets.js";
 
